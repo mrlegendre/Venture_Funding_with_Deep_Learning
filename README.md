@@ -1,0 +1,2 @@
+# Venture_Funding_with_Deep_Learning
+Module 13 Homework - Neural networks - working as a risk management associate you have been asked to help create a model that predicts whether applicants will be successful using your knowledge of machine learning and neural networks, you decide to use the features in the provided dataset to create a binary classifier model that will predict whether an applicant will become a successful business. 
